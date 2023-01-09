@@ -13,6 +13,7 @@ Running the program:
 
 1.simple run in CLI with dotnet test:
 ![image](https://user-images.githubusercontent.com/71693664/211378399-b12ddfdb-02e8-4d98-b08d-77703fa29a55.png)
+
 2.For reporting we use https://docs.specflow.org/projects/specflow-livingdoc/en/latest/LivingDocGenerator/Generating-Documentation.html
 
 As we can see, it gives path for result. 
